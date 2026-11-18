@@ -2,6 +2,31 @@
 
 A reusable personal portfolio template built with React, Vite, and Lucide React.
 
+
+## Preview
+
+Explore the AWLXDEV Portfolio Template through these screenshots.
+
+### Preview 1
+
+![AWLXDEV Portfolio Preview 1](public/preview1.png)
+
+### Preview 2
+
+![AWLXDEV Portfolio Preview 2](public/preview2.png)
+
+### Preview 3
+
+![AWLXDEV Portfolio Preview 3](public/preview3.png)
+
+### Preview 4
+
+![AWLXDEV Portfolio Preview 4](public/preview4.png)
+
+### Preview 5
+
+![AWLXDEV Portfolio Preview 5](public/preview5.png)
+
 ## Features
 
 - Two profile presets: AWLXDEV and Blank
@@ -123,5 +148,12 @@ Change the accent color in the theme configuration inside the corresponding prof
 
 ## License
 
-Choose and add an appropriate license before distributing this template.
+Copyright (c) 2026 AWLXDEV.
+
+All Rights Reserved.
+
+This repository is publicly viewable, but its contents may not be copied, modified, distributed, or used without prior written permission from AWLXDEV.
+
+See the [LICENSE](LICENSE) file for details.
+
 
